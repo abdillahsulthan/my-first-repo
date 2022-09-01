@@ -4,4 +4,4 @@ NPM     : 2106637555
 
 Kelas   : C
 
-Hobi    : Basket
+Hobi    : Joget
